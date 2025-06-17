@@ -1,0 +1,10 @@
+version: 'version: 3.8'
+
+services:
+  data_preprocessor:
+    build: ./subscriber
+    image: data_preprocessor:latest
+
+networks:
+  default:
+    driver: bridge
