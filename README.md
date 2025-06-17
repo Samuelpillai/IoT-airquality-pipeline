@@ -1,4 +1,4 @@
-# 🌫️ IoT Air Quality Prediction Pipeline – CSC8112 Coursework
+# 🌫️ IoT Air Quality Prediction Pipeline
 
 This project demonstrates the design and deployment of a full IoT data processing pipeline across **Azure-based Edge and Cloud VMs** using **Docker, MQTT (EMQX), RabbitMQ**, and a time-series **machine learning predictor** for PM2.5 air quality data.
 
