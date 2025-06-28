@@ -1,22 +1,22 @@
-# 🌫️ IoT Air Quality Prediction Pipeline
+# IoT Air Quality Prediction Pipeline
 
 This project demonstrates the design and deployment of a full IoT data processing pipeline across **Azure-based Edge and Cloud VMs** using **Docker, MQTT (EMQX), RabbitMQ**, and a time-series **machine learning predictor** for PM2.5 air quality data.
 
 ---
 
-## 📌 Features
+## Features
 
-- ✅ Docker-based MQTT Broker (EMQX)
-- ✅ IoT data ingestion from Newcastle Urban Observatory
-- ✅ Python-based data preprocessing operator
-- ✅ RabbitMQ-based message passing to ML engine
-- ✅ Daily averaging & outlier filtering
-- ✅ PM2.5 trend forecasting for 15 days using Prophet
-- ✅ Matplotlib-based visualizations
+-  Docker-based MQTT Broker (EMQX)
+-  IoT data ingestion from Newcastle Urban Observatory
+-  Python-based data preprocessing operator
+-  RabbitMQ-based message passing to ML engine
+-  Daily averaging & outlier filtering
+-  PM2.5 trend forecasting for 15 days using Prophet
+-  Matplotlib-based visualizations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component        | Tech Used                            |
 |------------------|--------------------------------------|
@@ -29,7 +29,7 @@ This project demonstrates the design and deployment of a full IoT data processin
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `docs/`: Screenshots of setup, logs, and results
 - `CSC8112-report-samuel-pillai.pdf`: Final coursework report
@@ -37,7 +37,7 @@ This project demonstrates the design and deployment of a full IoT data processin
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 🔹 Data Injector Output
 
@@ -65,14 +65,14 @@ This project demonstrates the design and deployment of a full IoT data processin
 
 ---
 
-## 📄 License
+## License
 
 This project is published under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Samuel Sathiyamoorthy**  
 MSc Cloud Computing – Newcastle University  
-📫 ssamuelpillai@gmail.com
+ssamuelpillai@gmail.com
